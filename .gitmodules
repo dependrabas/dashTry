@@ -1,0 +1,3 @@
+[submodule "dashTry"]
+	path = dashTry
+	url = https://github.com/dependrabas/dashTry.git
